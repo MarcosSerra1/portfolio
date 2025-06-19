@@ -77,7 +77,7 @@ Este é o repositório do meu portfólio profissional, desenvolvido para apresen
 
 ## 📷 Screenshots
 
-![Screenshot do Portfólio](assets/marcos-gusmao.webp)
+![Screenshot do Portfólio](assets/image.png)
 
 ## 📄 Licença
 
